@@ -7,7 +7,7 @@ This repository includes the following code files:
 | --- | --- |
 | Mercari_EDA_first_cut_approach.ipynb | This notebook includes Exploratory Data Analysis and Machine learning models which is our first cut approach to the problem|
 | GRU_model.ipynb | This notebook contains the Deep Learning models using RNN |
-| final.ipynb | This notebook contains the entire analysis pipeline i.e, from data preprocessing to final prediction with best models from our experiments
+| final.ipynb | This notebook has the entire analysis pipeline i.e, from data preprocessing to final prediction with best models from our experiments
 
 **Table of Contents**
 1. Business problem

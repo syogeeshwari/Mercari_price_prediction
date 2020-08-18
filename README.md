@@ -2,7 +2,7 @@
 
 The challenge here is, we need to build a model that predicts the right prices for the products based on the product text descriptions, product category name, brand name, and item condition, shipping etc. The error metric for this problem is Root Mean Square Logarithmic Error (RMSLE). Here is the link to the datasource - https://www.kaggle.com/c/mercari-price-suggestion-challenge
 
-This repository includes the following code files along with its description:
+This repository includes the following code files:
 | Code | Description |
 | --- | --- |
 | Mercari_EDA_first_cut_approach.ipynb | This notebook includes Exploratory Data Analysis and Machine learning models which is our first cut approach to the problem|
